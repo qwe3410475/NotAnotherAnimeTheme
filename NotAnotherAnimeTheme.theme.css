@@ -206,3 +206,5 @@
 .appAsidePanelWrapper_a3002d {
     font-family:內海字體 ;
 }
+
+.membersWrap_c8ffbb{background:hsl(from var(--hsl-background-shading) h s l/calc(var(--background-shading-percent) * 0.2));border:none;height:100%}
